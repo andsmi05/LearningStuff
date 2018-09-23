@@ -1,0 +1,29 @@
+body {
+    background-color: mediumaquamarine;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+p {
+    margin: 10px
+}
+h1 {
+    text-align: center;
+    color: darkblue;
+    text-shadow: 1px 1px black;
+}
+
+.main-content {
+    background-color: bisque;
+    padding-bottom: 8px;
+    border-width: 2px; 
+    border-color: black;
+    border-style: solid;
+    /* that's my border..k? */
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
